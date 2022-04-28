@@ -1,1 +1,13 @@
-<p>cards-info works!</p>
+<div id="container-card">
+    <div class="card-group">
+        <div *ngFor="let c of cards"  class="card">
+            <div class="color">
+                <img [src]="c.icon" class="card-img-top" >
+                  <div class="card-body">
+                    <h5 class="card-title">{{c.text}}</h5>
+                    </div>
+            </div>
+          <div class="bg-light"><a href="#">Saiba mais</a></div>
+        </div>
+      </div>
+</div>
