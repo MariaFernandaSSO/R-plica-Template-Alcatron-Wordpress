@@ -1,0 +1,53 @@
+.containerCarrossel{
+    margin: 10px 30px;
+    margin-top: 25px;
+}
+
+.posicao {
+    margin: 50px 20px;
+    top: 5px;
+    left: 10px;
+    color: white;
+}
+
+.carousel-item img {
+    max-height: 600px;
+}
+
+h1, h3, h4 {
+    background-color: rgba(0, 0, 0, 0.527);
+    padding: 15px;
+}
+
+h4 {
+    width: 65%;
+    font-weight: 490;
+}
+
+h3 {
+    width: 80%;
+    background-color: #dfb023;
+    font-weight: 400;
+}
+
+
+.carousel-indicators {
+    padding: 0px 30px;
+    background-color: rgba(48, 37, 32, 0.986);
+    border-radius: 50px;
+}
+
+.carousel-indicators-color{
+     width: 50px; 
+     height: 10px; 
+     background-color: #775f18;
+     
+    }
+
+#carousel2 {
+    background-color: rgb(80, 80, 80);
+}
+
+#carousel3{
+    background-color: rgb(114, 77, 43);
+}
