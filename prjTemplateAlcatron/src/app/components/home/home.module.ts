@@ -5,7 +5,6 @@ import { DestaqueCarrosselComponent } from './destaque-carrossel/destaque-carros
 import { CardsInfoComponent } from './cards-info/cards-info.component';
 
 
-
 @NgModule({
   declarations: [
     HomeComponent,
